@@ -1,2 +1,3 @@
 # hello-world
-my first respository
+
+Hello! Trying GitHub for the first time!
